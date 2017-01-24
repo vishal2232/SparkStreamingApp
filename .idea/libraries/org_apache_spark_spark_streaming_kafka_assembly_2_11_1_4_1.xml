@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="org.apache.spark:spark-streaming-kafka-assembly_2.11:1.4.1" type="repository">
+    <properties maven-id="org.apache.spark:spark-streaming-kafka-assembly_2.11:1.4.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/spark-streaming-kafka-assembly_2.11-1.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spark-streaming_2.11-1.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-library-2.11.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/unused-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-all-2.3.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
