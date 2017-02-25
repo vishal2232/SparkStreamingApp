@@ -1,6 +1,3 @@
-/**
-  * Created by root on 25/12/16.
-  */
 
 import org.apache.spark.{ SparkConf, SparkContext }
 import org.apache.spark.SparkContext._
